@@ -5,7 +5,6 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://s.team/p/fthk-nnmp/VGHRJFGV)
 
 [![Nosdezin github stats](https://github-readme-stats.vercel.app/api?username=nosdezin&show_icons=true&theme=dracula)]
--
 [![Nosdezin github stats Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Nosdezin&theme=blue-green)]
 -
 ## Sobre MIM 👉👈
