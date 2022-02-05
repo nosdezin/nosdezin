@@ -10,7 +10,7 @@
 ## Sobre MIM 👉👈
 
 <div>
-  <strong>Atualmente tenho 15 anos(2022) e sou um programador júnior. Estudo estrutura WEB e android. Tenho conhecimentos com banco de dados SQL e Firebase</strong>
+  <strong>Atualmente tenho 15 anos(2022) e sou um programador júnior, estou no 9º ano do Ensino Fundamental. Estudo estrutura WEB e android. Tenho conhecimentos com banco de dados SQL e Firebase</strong>
 </div>
 
 ## Tecnologias que eu uso no meu dia a dia
