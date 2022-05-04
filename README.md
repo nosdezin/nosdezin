@@ -1,8 +1,8 @@
 # Olá, Eu sou Nosdezin👋
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xRxv4AxtTy)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nosdezin)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://s.team/p/fthk-nnmp/VGHRJFGV)
+Discord: Nosde#4723
 
 ![Nosdezin github stats Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Nosdezin&theme=blue-green)
 ![Nosdezin github stats](https://github-readme-stats.vercel.app/api?username=nosdezin&show_icons=true&theme=dracula)
