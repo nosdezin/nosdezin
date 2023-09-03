@@ -1,7 +1,6 @@
 # Olá, Eu sou Nosdezin👋
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nosdezin)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://s.team/p/fthk-nnmp/VGHRJFGV)
 <div style="display:flex;align-items: center;">
 <img alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>Nosde#4723
 </div>
