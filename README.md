@@ -11,10 +11,10 @@
 ## Sobre MIM 👉👈
 
 <div>
-  <strong>Atualmente tenho 15 anos(2022) e sou um programador júnior, estou no 9º ano do Ensino Fundamental. Estudo estrutura WEB e android. Tenho conhecimentos com banco de dados SQL e Firebase</strong>
+  <strong>Programador freelancer backend(fullstacker de vez em quando), me considero júnior embora tenho mais de 4 anos nessa área. Trabalho muito com aplicações WEB e mobile usando o ReactJS, NextJS e Expo(React native)</strong>
 </div>
 
-## Tecnologias que eu uso no meu dia a dia
+## Tecnologias/Linguagens que eu tenho conhecimento
 
 <div style="display: inline_block">
    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
