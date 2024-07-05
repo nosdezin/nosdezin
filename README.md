@@ -1,9 +1,4 @@
 # Olá, Eu sou Nosdezin👋
-
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nosdezin)
-<div style="display:flex;align-items: center;">
-<img alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>Nosde#4723
-</div>
   
 ![Nosdezin github stats Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Nosdezin&theme=blue-green)
 ![Nosdezin github stats](https://github-readme-stats.vercel.app/api?username=nosdezin&show_icons=true&theme=dracula)
