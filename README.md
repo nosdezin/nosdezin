@@ -25,12 +25,3 @@
   <img align="center" alt="" src=""/>
 </div>
 
-<div>
-  <button onclick="oi(this)">Oi</button>
-
-  <script>
-    function oi(element){
-      element.innerText = 'oiii'      
-    }
-  </script>
-</div>
